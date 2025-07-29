@@ -1,4 +1,4 @@
-# Private-Network-Project
+
 # Private-Network-Project
 
 This project demonstrates the setup of a private two-tier architecture using CentOS VMs in VirtualBox. It includes a web server and a database server connected over a host-only network, simulating real-world application deployment with internal communication.
